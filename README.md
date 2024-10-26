@@ -1,1 +1,1 @@
-# website_projects
+# Bored Trial to make something simple.
